@@ -25,7 +25,7 @@ SECRET_KEY = '!9@a+i^uq7^vm%3umbvinm!0*kniqm0l1c!m_o9lqac%b1n=!a'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["127.0.0.1"]
+ALLOWED_HOSTS = ["127.0.0.1", "https://gani.pythonanywhere.com/"]
 
 
 # Application definition
